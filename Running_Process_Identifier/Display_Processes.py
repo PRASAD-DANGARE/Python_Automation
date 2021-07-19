@@ -43,7 +43,11 @@ def ProcessDisplay():
 
 def main():
 
-    print("-----Marvellous Infosystems-----")
+    print("\n")
+    print("------ Python Automation ------")
+    print("---- Running Process Identifier ----")
+    print("\n")
+    
     print("Script Title : " + argv[0])
 
     arr = ProcessDisplay()
