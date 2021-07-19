@@ -52,10 +52,12 @@ def ProcessDisplay(FolderName = "Running_Process"):
 # =======================
 
 def main():
+    
     print("\n")
     print("------ Python Automation ------")
     print("---- Running Process Identifier ----")
     print("\n")
+    
     print("Script title : "+argv[0])
     print("Folder And Log File Create After One Minute And To Close This Application Press ctrl with c")
 
